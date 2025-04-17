@@ -1,16 +1,28 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.fightersgeneration.com/news2025/char2/king-tekken1-select.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.fightersgeneration.com/nf7/char/king-tekken2-punch.gif">
+ <img alt="KING" src="https://www.fightersgeneration.com/news2025/char2/king-tekken1-select.gif">
+</picture>
 
-<!--
-**aimed-at-jupiter/aimed-at-jupiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Hi, I'm **aimed at jupiter**. 
+You may remember my name and likeness from such iconic media as '2001: A Space Oddysey' and 'The King of Iron Fist Tournament'
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Some of my favourite films</summary>
+  
+| Rank | Films            |
+|-----:|------------------|
+|     1| Blade Runner     |
+|     2| Perfect Blue     |
+|     3| Fallen Angels    |
+|     4| La Haine         |
+|     5| La Pointe Courte |
+  
+  More the first that came to mind rather than proper ranking
+</details>
+
+---
+> You Win!
+- Tekken Announcer
