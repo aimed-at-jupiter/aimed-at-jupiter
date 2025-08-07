@@ -7,6 +7,14 @@
 ## About me
 Endlessly curious and self driven learner with a growing foundation in software development. Especially interested in exploring how complex systems and data can be leveraged to provide creative solutions to real-world problems.
 
+## Projects
+Interiyours - An intelligent room planning assistant that provides personalised furniture suggestions to meet your lifestyle needs, tailored to your specific room dimensions and budget.
+
+Create a room by entering its dimensions, budget, and intended use. On submission, a real-time 3D rendering is generated, automatically populating the space with a suggested furniture layout based on your inputs. Furniture can be moved, rotated, removed, or replaced using items from a built-in catalogue. Multiple Rooms can be created, saved, and revisited later for further customisation. Each Room also includes a shareable view-only link.
+
+https://interiyours-project.netlify.app
+
+
 
 <details>
 <summary>Some of my favourite films</summary>
