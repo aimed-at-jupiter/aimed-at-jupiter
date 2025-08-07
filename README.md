@@ -5,8 +5,7 @@
 </picture>
 
 ## About me
-Hi, I'm **aimed at jupiter**. 
-You may remember my name and likeness from such iconic media as '2001: A Space Oddysey' and 'The King of Iron Fist Tournament'
+Endlessly curious and self driven learner with a growing foundation in software development. Especially interested in exploring how complex systems and data can be leveraged to provide creative solutions to real-world problems.
 
 
 <details>
@@ -15,10 +14,10 @@ You may remember my name and likeness from such iconic media as '2001: A Space O
 | Rank | Films            |
 |-----:|------------------|
 |     1| Blade Runner     |
-|     2| Perfect Blue     |
+|     2| La Pointe Courte |
 |     3| Fallen Angels    |
 |     4| La Haine         |
-|     5| La Pointe Courte |
+|     5| Perfect Blue     |
   
   More the first that came to mind rather than proper ranking
 </details>
