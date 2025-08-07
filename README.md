@@ -1,6 +1,9 @@
 ## About me
 Endlessly curious and self driven learner with a growing foundation in software development. Especially interested in exploring how complex systems and data can be leveraged to provide creative solutions to real-world problems.
 
+I'm currently working mostly with JavaScript, Node.js, Express.js, PSQL, React, HTML & CSS, but looking to explore TypeScript, Python and Java.
+
+
 ## Projects
 Interiyours 
 - An intelligent room planning assistant that provides personalised furniture suggestions to meet your lifestyle needs, tailored to your specific room dimensions and budget.
