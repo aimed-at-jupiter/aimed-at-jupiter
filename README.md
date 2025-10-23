@@ -11,7 +11,8 @@ I'm currently working mostly with JavaScript, Node.js, Express.js, PSQL, React, 
 <details>
 Users can browse all forthcoming events or filter by event type, and once logged in, can sign up for free events, pay for ticketed events using Stripe, and then optionally add them to their personal Google Calendar. Staff can create events auto populated with film info from the Open Movie Database (OMDb) simply by searching by film title, and optionally release year for more accurate results. The web app was built with accessibility in mind for use with screenreaders, and also securely handles user data with JWT and features protected endpoints for privacy and security.
 </details>
-https://jupiter-film-club.netlify.app
+https://jupiter-film-club.netlify.app 
+https://github.com/aimed-at-jupiter/film-club
 
 ---
 
