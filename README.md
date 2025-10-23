@@ -25,4 +25,5 @@ Users can browse all forthcoming events or filter by event type, and once logged
 Create a room by entering its dimensions, budget, and intended use. On submission, a real-time 3D rendering is generated, automatically populating the space with a suggested furniture layout based on your inputs. Furniture can be moved, rotated, removed, or replaced using items from a built-in catalogue. Multiple Rooms can be created, saved, and revisited later for further customisation. Each Room also includes a shareable view-only link.
 </details>
 
-https://interiyours-project.netlify.app
+🌐 **Live:** [https://interiyours-project.netlify.app](https://interiyours-project.netlify.app)
+
