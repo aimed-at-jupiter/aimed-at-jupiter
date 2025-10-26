@@ -14,7 +14,7 @@ Users can browse all forthcoming events or filter by event type, and once logged
 
 🌐 **Live:** [https://jupiter-film-club.netlify.app](https://jupiter-film-club.netlify.app)
 
-💻 **Repo:** [github.com/my-github/my-app](https://github.com/aimed-at-jupiter/film-club)
+💻 **Repo:** [https://github.com/aimed-at-jupiter/film-club](https://github.com/aimed-at-jupiter/film-club)
 
 ---
 
